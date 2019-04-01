@@ -19,7 +19,7 @@ and re run in the jupyter notebook
 sudo service grafana-server start
 - go to http://localhost:3000
 user admin, pass admin
-create panel, example ->
+create panel, example query ->
 
 ```sql
 SELECT

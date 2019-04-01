@@ -1,7 +1,7 @@
 # data-processing
 Me doing datascience stuff
 
-![grafana](https://imgur.com/aeByVIz)
+![grafana](https://i.imgur.com/aeByVIz.png)
 
 # dji data set
 https://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index
@@ -22,7 +22,7 @@ and re run in the jupyter notebook
 - go to http://localhost:3000
 user admin, pass admin
 - configure
-![grafanaconfig](https://imgur.com/zAb2aK7)
+![grafanaconfig](https://i.imgur.com/zAb2aK7.png)
 check psql version otherwise error
 create panel, example query ->
 

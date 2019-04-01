@@ -35,4 +35,4 @@ FROM dow_jones_index
 WHERE
  date >  1299214800
 
-ORDER BY 1```
+ORDER BY 1

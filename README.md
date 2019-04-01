@@ -30,5 +30,3 @@ WHERE
  date >  1299214800
 
 ORDER BY 1```
-
-save

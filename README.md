@@ -21,13 +21,13 @@ sudo service grafana-server start
 user admin, pass admin
 create panel, example ->
 
-SELECT
+`SELECT
   date AS "time",
   percent_change_price
 FROM dow_jones_index
 WHERE
  date >  1299214800
 
-ORDER BY 1
+ORDER BY 1`
 
 save

@@ -1,6 +1,8 @@
 # data-processing
 Me doing datascience stuff
 
+![grafana](https://imgur.com/aeByVIz)
+
 # dji data set
 https://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index
 
@@ -19,6 +21,9 @@ and re run in the jupyter notebook
 `sudo service grafana-server start`
 - go to http://localhost:3000
 user admin, pass admin
+- configure
+![grafanaconfig](https://imgur.com/zAb2aK7)
+check psql version otherwise error
 create panel, example query ->
 
 ```sql

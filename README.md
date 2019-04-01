@@ -23,8 +23,8 @@ and re run in the jupyter notebook
 user admin, pass admin
 - configure
 ![grafanaconfig](https://i.imgur.com/zAb2aK7.png)
-check psql version otherwise error
-create panel, 
+check psql version otherwise error.
+- create panel, 
 - example query ->
 
 ```sql

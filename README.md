@@ -1,7 +1,7 @@
 # data-processing
 Me doing datascience stuff
 
-#dji data set
+# dji data set
 https://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index
 
 - create postgres user

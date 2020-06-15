@@ -27,6 +27,8 @@ check psql version otherwise error.
 - create panel, 
 - example query ->
 
+can get data from https://www.nasdaq.com/symbol/tsla/historical
+
 ```sql
 SELECT
   date AS "time",
@@ -36,3 +38,5 @@ WHERE
  date >  1299214800
 
 ORDER BY 1
+
+
